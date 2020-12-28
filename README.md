@@ -4,5 +4,5 @@ used in Kaggle's [Mechanism of Action (MoA) prediction challenge](https://www.ka
 
 filename: gene_mapping.csv 
 
-old = Entrez gene ID
-new = Kaggle's gene ID
+- old = Entrez gene ID
+- new = Kaggle's gene ID
